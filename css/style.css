@@ -120,6 +120,7 @@ aside h2{
 /* 表单 */
 aside{
 	padding: 10px;
+	margin-bottom: 0;
 }
 .reg-title{
 	display: inline-block;
@@ -136,6 +137,7 @@ aside{
 }
 .reg-section{
 	display: inline-block;
+	margin-left:-4px; 
 }
 input.reg-submit{
 	display: block;
