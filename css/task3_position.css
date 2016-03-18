@@ -1,0 +1,34 @@
+/*positon */
+body{
+	margin: 20px;
+}
+img{
+	border: 1px solid #999;
+	padding: 1px;
+}
+.container,.team,article,.members{
+	border: 1px solid #999;
+	padding: 20px;
+}
+.container{
+	background: #eee;
+}
+.team{
+	margin: 0;
+}
+article{
+}
+.members{
+	width: 64px;
+}
+.members ul{
+	padding: 0;
+	margin: 0;
+}
+.members ul li{
+	list-style: none;
+	padding-bottom: 20px;
+	margin-left: -10px;
+}
+.team img{
+}
