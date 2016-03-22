@@ -1,0 +1,45 @@
+
+body{
+	margin: 0;
+}
+.team , .members , .content{
+	float: left;
+	border: 1px solid #999;
+	background: #fff;
+
+}
+.team{
+	width: 160px;
+	margin-left: -100%;
+	position: relative;
+	right: 264px;
+	padding: 20px;
+}
+.team img{
+	float: left;
+	margin-right: 20px;
+}
+.members{
+	width: 120px;
+	margin-left: -180px;
+	position: relative;
+	text-align: center;
+	padding-top: 20px;
+	left:200px;
+}
+.content{
+	width: 100%;
+	padding: 20px;
+}
+.members img{
+	margin-bottom: 20px;
+}
+.container{
+	background: #eee;
+	padding: 20px 204px 20px 240px;
+	border: 1px solid #999;
+	margin: 20px;
+}
+.clearfix{
+	clear: both;
+}
