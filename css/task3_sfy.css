@@ -1,0 +1,46 @@
+/*双飞翼*/
+.container{
+	background: #eee;
+	border: 1px solid #999;
+	padding: 20px;
+}
+.clearfix{
+	clear: both;
+}
+.content{
+	margin-left:220px; 
+	margin-right: 142px;
+	border: 1px solid #999;
+	padding: 20px;
+	background: #fff;
+}
+article,figure,aside{
+	border: 1px solid #999;
+	background: #fff;
+	float: left;
+}
+figure{
+	margin: 0;
+	padding: 20px;
+	width: 158px;
+	margin-left: -100%;
+
+}
+figure img{
+	float: left;
+	margin-right: 20px; 
+}
+
+article{
+	background: none;
+	border: none;
+}
+aside{
+	width: 80px;
+	margin-left: -122px;
+	text-align: center;
+	padding: 20px 20px 0 20px;
+}
+aside img{
+	padding-bottom:20px; 
+}
