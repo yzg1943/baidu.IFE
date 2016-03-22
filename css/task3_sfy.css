@@ -1,4 +1,7 @@
 /*双飞翼*/
+body{
+	margin: 0;
+}
 .container{
 	background: #eee;
 	border: 1px solid #999;
