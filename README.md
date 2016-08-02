@@ -1,15 +1,4 @@
-#  baidu.IFE2016
-这是 @腿e先生 的百度IFE 2016作业，欢迎大家与我交流。
+# 我的Baidu.IFE作业列表
 
-<<<<<<< HEAD
-# 浏览地址
-=======
-<<<<<<< HEAD
-浏览地址
-http://yzg1943.github.io/baidu.IFE
-=======
-### 浏览地址
->>>>>>> refs/remotes/origin/gh-pages
-http://yzg1943.github.io/baidu.IFE
-
->>>>>>> refs/remotes/origin/master
+###     01.基础的html页面](http://yzg1943.github.io/baidu.IFE/task_001.html)
+学习常用HTML标签，包含部分HTML5新增标签。
