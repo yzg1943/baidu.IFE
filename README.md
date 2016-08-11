@@ -12,3 +12,6 @@
 
 - [双飞翼 HTML语义化](http://yzg1943.github.io/baidu.IFE/task_003-sfy.html)  
 注意HTML结构的修改
+
+### [04 定位和居中问题](http://yzg1943.github.io/baidu.IFE/task_004.html)
+大方框水平垂直居中，设置2个角的位置。
