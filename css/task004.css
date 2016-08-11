@@ -1,0 +1,27 @@
+.main{
+	width: 400px;
+	height: 200px;
+	background: #ccc;
+	/*relative中 top值无效*/
+	position: absolute;
+	left:50%;
+	top:50%;
+	/* 宽高值减半 */
+	margin:-100px 0 0 -200px;
+	overflow: hidden;
+}
+.circle{
+	width: 100px;
+	height: 100px;
+	background: #fc0;
+	border-radius: 50%;
+	position: absolute;
+}
+.cc_left{
+	left: -50px;
+	top: -50px;
+}
+.cc_right{
+	right: -50px;
+	bottom: -50px;
+}
