@@ -15,3 +15,6 @@
 
 ### [04 定位和居中问题](http://yzg1943.github.io/baidu.IFE/task_004.html)
 大方框水平垂直居中，设置2个角的位置。
+
+### [05 右侧定宽，左侧自适应](http://yzg1943.github.io/baidu.IFE/task_005.html)
+学习CSS3中的calc()属性
