@@ -256,6 +256,20 @@ span.sjx{
 	bottom: 0;
 	right: 0;
 }
+.tt_num{
+	color:#fff;
+	float: left;
+	font:110px 微软雅黑;
+}
+.tt_h{
+	height: 86px;
+	font: italic 21px 黑体;
+	color:#fff;
+	border-left: 2px solid #fff;
+}
+.tt_h span{
+	font: normal 12px 黑体;
+}
 footer{
 	margin-top: 40px;
 	padding-bottom: 40px;
