@@ -18,3 +18,6 @@
 
 ### [05 右侧定宽，左侧自适应](http://yzg1943.github.io/baidu.IFE/task_005.html)
 学习CSS3中的calc()属性
+
+### [06 报纸排版临摹](http://yzg1943.github.io/baidu.IFE/task_006.html)
+学习图文排版
