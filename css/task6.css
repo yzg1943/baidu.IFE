@@ -253,19 +253,39 @@ span.sjx{
 .art_lists blockquote{
 	width: 162px;
 	position: absolute;
-	bottom: 0;
-	right: 0;
+	right: 20px;
+	bottom: 25px;
+	font: italic 14px 黑体;
+	text-indent: 3em;
+	line-height: 150%;
+}
+.art_lists blockquote span{
+	color:#d45d5c;
+	position: absolute;
+	font: 70px 黑体;
+}
+.fqt{
+    left: -80px;
+    top: -16px;
+}
+.lqt{
+	right: -30px;
 }
 .tt_num{
 	color:#fff;
 	float: left;
 	font:110px 微软雅黑;
+	margin-left: 10px;
 }
 .tt_h{
 	height: 86px;
+	width: 160px;
+	margin-left: 80px;
+	margin-top: 30px;
 	font: italic 21px 黑体;
 	color:#fff;
 	border-left: 2px solid #fff;
+	padding-left: 10px;
 }
 .tt_h span{
 	font: normal 12px 黑体;
